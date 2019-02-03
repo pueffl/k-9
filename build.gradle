@@ -16,7 +16,7 @@ buildscript {
                 'preferencesFix': '1.0.0',
                 'okio': '1.14.0',
                 'timber': '4.7.1',
-                'koin': '0.9.1',
+                'koin': '1.0.2',
                 'commonsIo': '2.4',
                 'mime4j': '0.8.1',
 
